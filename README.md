@@ -6,7 +6,7 @@ This repository consists of the code samples, assignments, and the curriculum. C
 - Complete custom implementation of all Data Structures and Algorithms.
   
 ## Lectures
-- Introduction to Java
+- Introduction to Java - **1 day**
     - Introduction
     - How it works
     - Setup Installation
@@ -14,7 +14,7 @@ This repository consists of the code samples, assignments, and the curriculum. C
     - Conditionals & Loops in Java
     - Data-types
     - Coding best practices
-- Arrays
+- Arrays - **2 days**
     - Introduction
     - Memory management
     - Input and Output
@@ -29,14 +29,14 @@ This repository consists of the code samples, assignments, and the curriculum. C
         - Selection Sort
         - Bubble Sort
         - Cyclic Sort
-- Pattern questions
-- Strings
+- Pattern questions - **1 day**
+- Strings - **1 day**
     - Introduction
     - How Strings work
     - Comparison of methods
     - Operations in Strings
     - StringBuilder in java
-- Maths for DSA
+- Maths for DSA - **2 days**
     - Introduction
     - Complete Bitwise Operators
     - Range of numbers
@@ -48,7 +48,7 @@ This repository consists of the code samples, assignments, and the curriculum. C
     - Number Theory
     - HCF / LCM
     - Euclidean algorith
-- Recursion
+- Recursion - **7 days**
     - Introduction
     - Flow of recursive programs - stacks
     - Why recursion?
@@ -67,27 +67,27 @@ This repository consists of the code samples, assignments, and the curriculum. C
     - Recursion Array Problems
     - Recursion Pattern Problems
     - Subset Questions
-- Space and Time Complexity Analysis
+- Space and Time Complexity Analysis - **1 day**
     - Introduction
     - Comparisons of various cases
     - Solving Linear Recurrence Relations
     - Solving Divide and Conquer Recurrence Relations
     - Big-O, Big-Omega, Big-Theta Notations
-- LinkedList
+- LinkedList - **2 days**
     - Introduction
     - Singly + Doubly + Circular LinkedList
     - Fast and slow pointer
     - Cycle Detection
     - Reversal of LinkedList
     - Linked List + Recursion
-- Stacks & Queues
+- Stacks & Queues - **2 days**
     - Introduction
     - Interview problems
     - Push efficient
     - Pop efficient
     - Queue using Stack and Vice versa
     - Circular Queue
-- Trees
+- Trees - **2 days**
     - Introduction
     - Binary Trees
     - Binary Search Trees
@@ -95,7 +95,7 @@ This repository consists of the code samples, assignments, and the curriculum. C
     - BFS
     - AVL Trees
     - Segment Tree
-- Heaps
+- Heaps - **3 days**
     - Introduction
     - Theory
     - Priority Queue
@@ -104,7 +104,7 @@ This repository consists of the code samples, assignments, and the curriculum. C
     - k-way merge
     - Top k elements
     - Interval problems
-- HashMap
+- HashMap **3 days**
     - Introduction
     - Theory - how it works
     - Comparisons of various forms
@@ -117,8 +117,8 @@ This repository consists of the code samples, assignments, and the curriculum. C
     - Probing
     - Huffman-Encoder
     - Top K elements problems
-- Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
-- Graphs
+- Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm - **2 days**
+- Graphs - **3 days**
     - Introduction
     - BFS
     - DFS
@@ -130,7 +130,7 @@ This repository consists of the code samples, assignments, and the curriculum. C
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
-- Dynamic Programming
+- Dynamic Programming - **6 days**
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
     - Complexity Analysis
@@ -139,9 +139,9 @@ This repository consists of the code samples, assignments, and the curriculum. C
     - Unbounded Knapsack
     - Subsequence questions
     - String DP
-- Greedy Algorithms
+- Greedy Algorithms - **2 days**
 - Tries
-- Object Oriented Programming
+- Object Oriented Programming - **3 days**
     - Introduction
     - Classes & its instances
     - this keyword in Java
